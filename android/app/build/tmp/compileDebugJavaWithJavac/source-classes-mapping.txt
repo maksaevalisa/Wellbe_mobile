@@ -1,0 +1,14 @@
+com/wellbe_app/MainActivity.java
+ com.wellbe_app.MainActivity
+com/wellbe_app/MainApplication.java
+ com.wellbe_app.MainApplication
+ com.wellbe_app.MainApplication$1
+com/wellbe_app/BuildConfig.java
+ com.wellbe_app.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/wellbe_app/ReactNativeFlipper.java
+ com.wellbe_app.ReactNativeFlipper
+ com.wellbe_app.ReactNativeFlipper$1
+ com.wellbe_app.ReactNativeFlipper$2
+ com.wellbe_app.ReactNativeFlipper$2$1
